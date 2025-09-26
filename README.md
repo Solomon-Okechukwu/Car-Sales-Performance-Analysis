@@ -10,6 +10,7 @@
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#resultsfindings)
 - [Recommendation](#recommendation)
+- [Dashboard Preview](#dashboard-preview)
 - [Limitations](#limitations)
 - [References](#references)
   
@@ -96,6 +97,9 @@ The results of the analysis are summarized as follows:
 #### Product Performance
 - Car Models: Corolla leads with 201 units, while Passat and Highlander had only 3 units each.
 - Car Brands: Ford (368 sales) and Toyota dominate, with Honda, Nissan, and Hyundai also strong. Together, the top 5 brands contribute approximately 90% of sales.
+
+## Dashboard Preview
+- Here is an overview of the Car Sales Performance Dashboard
 
 ## Recommendation
   - Target expansion in urban regions with high untapped demand (e.g., Northern Nigeria).
