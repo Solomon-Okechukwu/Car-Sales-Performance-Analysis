@@ -100,7 +100,7 @@ The results of the analysis are summarized as follows:
 
 ## Dashboard Preview
 - Here is an overview of the Car Sales Performance Dashboard
-  ![Dashboard Overview](Car-Sales-Dashboard.PNG)
+  ![Dashboard Overview](Car%20Sales%20Dashboard.PNG)
 
 ## Recommendation
   - Target expansion in urban regions with high untapped demand (e.g., Northern Nigeria).
