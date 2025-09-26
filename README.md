@@ -1,6 +1,7 @@
 # Car-Sales-Performance-Analysis
-
+---
 ## Table of Contents
+---
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Data Source](#data-source)
@@ -99,7 +100,7 @@ The results of the analysis are summarized as follows:
 - Car Brands: Ford (368 sales) and Toyota dominate, with Honda, Nissan, and Hyundai also strong. Together, the top 5 brands contribute approximately 90% of sales.
 
 ## Dashboard Preview
-- Here is an overview of the Car Sales Performance Dashboard
+  Here is an overview of the Car Sales Performance Dashboard
   ![Dashboard Overview](Car%20Sales%20Dashboard.PNG)
 
 ## Recommendation
@@ -122,6 +123,10 @@ During the analysis, several data quality issues were identified and addressed:
 
 ## References
 - Dataset source: Skill Ahead – Free Dataset Storage Folder (2020).  
-- Guidance from personal Power BI training notes and documentation.  
+- Guidance from personal Power BI training notes and documentation.
+
+😄
+💻
+📊
 
 
