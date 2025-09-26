@@ -129,4 +129,8 @@ During the analysis, several data quality issues were identified and addressed:
 💻
 📊
 
+|Heading1|Heading2|
+|--------|--------|
+|Content1|Content2|
+|Excel|Power BI|
 
